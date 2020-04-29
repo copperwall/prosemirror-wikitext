@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-wikitext",
+  "name": "@copperwall/prosemirror-wikitext",
   "version": "1.1.0",
   "description": "ProseMirror Wikitext integration",
   "main": "dist/index.js",
